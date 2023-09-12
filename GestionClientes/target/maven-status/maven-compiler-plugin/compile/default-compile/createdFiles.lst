@@ -1,9 +1,0 @@
-com\parcial\GestionClientes\repository\ClienteRepository.class
-com\parcial\GestionClientes\model\Cliente.class
-com\parcial\GestionClientes\controller\ClienteController.class
-com\parcial\GestionClientes\GestionClientesApplication.class
-com\parcial\GestionClientes\controller\CorreoController.class
-com\parcial\GestionClientes\repository\CorreoRepository.class
-com\parcial\GestionClientes\model\Correo.class
-com\parcial\GestionClientes\service\ClienteService.class
-com\parcial\GestionClientes\service\CorreoService.class
